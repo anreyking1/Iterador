@@ -1,6 +1,7 @@
 # Iterador
-Iterador en python
-Andres Felipe Reyes García
+El siguiente proyecto muestra un ejemplo de Iterador en python
+Desarrollado por: Andres Felipe Reyes García
+Cod 20142020103
 <pre><code>
 import abc
 
